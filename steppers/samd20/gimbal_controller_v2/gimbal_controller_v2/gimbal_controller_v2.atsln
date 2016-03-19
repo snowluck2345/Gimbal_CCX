@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "gimbal_controller_v2", "gimbal_controller_v2\gimbal_controller_v2.cproj", "{F4D5B04A-1E2F-4B61-A049-F025D5FC6C48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4D5B04A-1E2F-4B61-A049-F025D5FC6C48}.Debug|ARM.ActiveCfg = Debug|ARM
+		{F4D5B04A-1E2F-4B61-A049-F025D5FC6C48}.Debug|ARM.Build.0 = Debug|ARM
+		{F4D5B04A-1E2F-4B61-A049-F025D5FC6C48}.Release|ARM.ActiveCfg = Release|ARM
+		{F4D5B04A-1E2F-4B61-A049-F025D5FC6C48}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
